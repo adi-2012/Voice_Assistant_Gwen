@@ -1,0 +1,72 @@
+2025-07-03 18:16:15,154 - INFO - Gwen assistant started successfully
+2025-07-03 18:16:17,758 - INFO - Wake word detected
+2025-07-03 18:16:17,802 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:16:30,564 - INFO - Command received: open youtube
+2025-07-03 18:16:31,534 - INFO - Speaking: Opening youtube
+2025-07-03 18:16:43,628 - INFO - Wake word detected
+2025-07-03 18:16:43,670 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:16:50,021 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-03 18:17:53,949 - ERROR - Wake word file not found: hey-Gwen_en_windows_v3_0_0.ppn
+2025-07-03 18:21:51,179 - INFO - Gwen assistant started successfully
+2025-07-03 18:21:58,032 - INFO - Wake word detected
+2025-07-03 18:21:58,081 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:22:05,333 - INFO - Command received: fuck you
+2025-07-03 18:22:06,430 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-03 18:23:20,489 - INFO - Gwen assistant started successfully
+2025-07-03 18:23:35,176 - INFO - Wake word detected
+2025-07-03 18:23:35,202 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:23:46,609 - INFO - Command received: shayari
+2025-07-03 18:23:48,121 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-03 18:28:40,627 - INFO - Gwen assistant started successfully
+2025-07-03 18:29:50,161 - INFO - Gwen assistant started successfully
+2025-07-03 18:34:39,293 - INFO - Wake word detected
+2025-07-03 18:34:39,339 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:34:47,766 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-03 18:40:28,270 - INFO - Wake word detected
+2025-07-03 18:40:28,316 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:40:36,802 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-03 18:40:41,738 - INFO - Wake word detected
+2025-07-03 18:40:41,782 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:40:53,033 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-03 18:40:58,236 - INFO - Wake word detected
+2025-07-03 18:40:58,278 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:41:05,169 - INFO - Command received: open notepad
+2025-07-03 18:41:06,119 - INFO - Speaking: Opening notepad
+2025-07-03 18:41:10,718 - INFO - Wake word detected
+2025-07-03 18:41:10,762 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 18:41:17,355 - INFO - Command received: youtube
+2025-07-03 18:41:17,596 - INFO - Speaking: Opening youtube
+2025-07-03 20:38:27,987 - INFO - Gwen assistant started successfully
+2025-07-03 20:39:23,684 - INFO - Wake word detected
+2025-07-03 20:39:23,706 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:39:32,040 - INFO - Command received: open youtube
+2025-07-03 20:39:32,535 - INFO - Speaking: Opening youtube
+2025-07-03 20:39:40,792 - INFO - Wake word detected
+2025-07-03 20:39:40,813 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:39:50,968 - INFO - Command received: open youtube
+2025-07-03 20:39:51,117 - INFO - Speaking: Opening youtube
+2025-07-03 20:41:39,973 - INFO - Wake word detected
+2025-07-03 20:41:39,997 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:41:47,569 - INFO - Command received: open youtube
+2025-07-03 20:41:47,682 - INFO - Speaking: Opening youtube
+2025-07-03 20:42:10,311 - INFO - Wake word detected
+2025-07-03 20:42:10,336 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:42:17,548 - INFO - Command received: open google chrome
+2025-07-03 20:42:17,659 - INFO - Speaking: Opening google chrome
+2025-07-03 20:43:09,349 - INFO - Wake word detected
+2025-07-03 20:43:09,374 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:43:16,501 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-03 20:43:35,679 - INFO - Wake word detected
+2025-07-03 20:43:35,704 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:43:43,682 - INFO - Command received: open notepad
+2025-07-03 20:43:43,842 - INFO - Speaking: Opening notepad
+2025-07-03 20:44:06,239 - INFO - Wake word detected
+2025-07-03 20:44:06,263 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:44:56,909 - INFO - Command received: hey google working progress hey google
+2025-07-03 20:44:57,020 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-03 20:45:04,234 - INFO - Wake word detected
+2025-07-03 20:45:04,258 - INFO - Speaking: yes peter, how can i help you?
+2025-07-03 20:45:10,941 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:08:48,262 - INFO - Gwen assistant started successfully
+2025-07-05 10:34:02,238 - INFO - Gwen assistant started successfully
+2025-07-05 10:34:08,862 - INFO - Assistant stopped by user (Ctrl+C)
