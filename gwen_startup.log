@@ -1,14 +1,16 @@
-[03-07-2025 18:16:12.15] Starting Gwen Assistant 
-[03-07-2025 18:16:12.16] Gwen started successfully 
-[03-07-2025 18:21:44.98] Starting Gwen Assistant 
-[03-07-2025 18:21:45.00] Gwen started successfully 
-[03-07-2025 18:23:15.20] Starting Gwen Assistant 
-[03-07-2025 18:23:15.22] Gwen started successfully 
-[03-07-2025 18:28:35.68] Starting Gwen Assistant 
-[03-07-2025 18:28:35.70] Gwen started successfully 
-[03-07-2025 18:29:44.78] Starting Gwen Assistant 
-[03-07-2025 18:29:44.80] Gwen started successfully 
-[03-07-2025 20:38:23.52] Starting Gwen Assistant 
-[03-07-2025 20:38:23.55] Gwen started successfully 
-[05-07-2025 10:08:40.03] Starting Gwen Assistant 
-[05-07-2025 10:08:40.05] Gwen started successfully 
+[11-07-2025  9:52:30.20] Gwen exited, restart attempt 1 
+2025-07-11 09:52:40,268 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:52:40,269 - __main__ - INFO - Configuration validation successful
+2025-07-11 09:52:40,269 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 09:52:40,844 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 09:52:40,844 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:52:41,216 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 09:52:41,216 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 09:52:42,485 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 09:53:27,454 - __main__ - INFO - Wake word detected
+2025-07-11 09:53:27,528 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 09:53:28,502 - __main__ - ERROR - ElevenLabs TTS error: [Errno 13] Permission denied: 'output.mp3'
+2025-07-11 09:53:28,503 - __main__ - WARNING - ElevenLabs failed, trying fallback
+2025-07-11 09:53:31,466 - __main__ - INFO - Listening for command...
+2025-07-11 09:53:38,881 - __main__ - INFO - Speaking: Sorry, I didn't understand that.
+2025-07-11 09:53:41,544 - __main__ - WARNING - Speech not recognized

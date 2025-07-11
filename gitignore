@@ -1,0 +1,95 @@
+# Gwen Voice Assistant - Git Ignore File
+# This file prevents sensitive data from being committed to GitHub
+
+# === SECURITY: Environment Variables ===
+.env
+*.env
+.env.local
+.env.production
+
+# === API Keys and Secrets ===
+config.json
+secrets.json
+api_keys.txt
+
+# === Audio Files ===
+*.mp3
+*.wav
+output.*
+temp_audio.*
+
+# === Log Files ===
+*.log
+logs/
+gwen.log
+
+# === Cache Files ===
+app_cache.json
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Wake Word Files (if sensitive) ===
+# Uncomment if your .ppn files contain sensitive data
+# *.ppn
+
+# === Python ===
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === Virtual Environments ===
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# === IDE Files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === OS Files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === Windows ===
+desktop.ini
+
+# === Temporary Files ===
+*.tmp
+*.temp
+temp/
+tmp/
+
+# === Backup Files ===
+*.bak
+*.backup
+*.old

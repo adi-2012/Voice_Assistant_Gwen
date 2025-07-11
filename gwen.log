@@ -70,3 +70,216 @@
 2025-07-05 10:08:48,262 - INFO - Gwen assistant started successfully
 2025-07-05 10:34:02,238 - INFO - Gwen assistant started successfully
 2025-07-05 10:34:08,862 - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-05 10:50:48,548 - INFO - Wake word detected
+2025-07-05 10:50:48,595 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:51:00,697 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:51:06,253 - INFO - Wake word detected
+2025-07-05 10:51:06,295 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:51:19,899 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:51:24,838 - INFO - Wake word detected
+2025-07-05 10:51:24,882 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:51:31,618 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:51:36,339 - INFO - Wake word detected
+2025-07-05 10:51:36,383 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:51:42,985 - INFO - Command received: open youtube
+2025-07-05 10:51:48,667 - INFO - Speaking: Opening youtube
+2025-07-05 10:52:04,701 - INFO - Wake word detected
+2025-07-05 10:52:04,756 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:52:15,969 - INFO - Command received: uske bad i am also implemented
+2025-07-05 10:52:16,206 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-05 10:54:49,021 - INFO - Wake word detected
+2025-07-05 10:54:49,064 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:54:58,853 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:55:20,894 - INFO - Wake word detected
+2025-07-05 10:55:20,936 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:55:30,527 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 10:58:44,738 - INFO - Wake word detected
+2025-07-05 10:58:44,785 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 10:59:01,787 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-05 11:15:54,947 - INFO - Wake word detected
+2025-07-05 11:15:54,993 - INFO - Speaking: yes peter, how can i help you?
+2025-07-05 11:16:09,723 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-06 19:22:12,267 - INFO - Gwen assistant started successfully
+2025-07-06 19:54:37,258 - INFO - Gwen assistant started successfully
+2025-07-06 19:54:40,490 - INFO - Wake word detected
+2025-07-06 19:54:40,519 - INFO - Wake word detected
+2025-07-06 19:54:40,551 - INFO - Speaking: yes peter, how can i help you?
+2025-07-06 19:54:40,575 - INFO - Speaking: yes peter, how can i help you?
+2025-07-06 19:56:05,102 - INFO - Gwen assistant started successfully
+2025-07-06 19:56:06,665 - INFO - Wake word detected
+2025-07-06 19:56:06,727 - INFO - Speaking: yes peter, how can i help you?
+2025-07-06 22:51:56,433 - INFO - Gwen assistant started successfully
+2025-07-07 09:07:57,229 - INFO - Gwen assistant started successfully
+2025-07-07 13:55:50,356 - INFO - Gwen assistant started successfully
+2025-07-07 18:28:54,448 - INFO - Gwen assistant started successfully
+2025-07-07 18:29:26,392 - INFO - Wake word detected
+2025-07-07 18:29:26,418 - INFO - Speaking: yes peter, how can i help you?
+2025-07-07 18:29:26,434 - ERROR - ElevenLabs failed: HTTPSConnectionPool(host='api.elevenlabs.io', port=443): Max retries exceeded with url: /v1/text-to-speech/Vara1IkEw7vh5Hr5dT3C?output_format=mp3_44100_128 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000237EC7DFE00>: Failed to resolve 'api.elevenlabs.io' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 18:40:44,063 - INFO - Gwen assistant started successfully
+2025-07-07 18:45:38,752 - INFO - Wake word detected
+2025-07-07 18:45:38,774 - INFO - Speaking: yes peter, how can i help you?
+2025-07-08 09:11:33,237 - INFO - Gwen assistant started successfully
+2025-07-08 10:55:15,288 - INFO - Wake word detected
+2025-07-08 10:55:15,369 - INFO - Speaking: yes peter, how can i help you?
+2025-07-08 10:55:38,649 - INFO - Command received: twinkle twinkle
+2025-07-08 10:55:42,947 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-08 11:20:08,493 - INFO - Wake word detected
+2025-07-08 11:20:08,561 - INFO - Speaking: yes peter, how can i help you?
+2025-07-08 11:20:18,937 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-08 18:18:24,720 - INFO - Gwen assistant started successfully
+2025-07-09 09:39:13,209 - INFO - Wake word detected
+2025-07-09 09:39:13,281 - INFO - Speaking: yes peter, how can i help you?
+2025-07-09 09:39:27,886 - INFO - Command received: lovely professional university
+2025-07-09 09:39:32,343 - INFO - Speaking: Sorry, I can't do that yet.
+2025-07-09 09:53:33,318 - INFO - Gwen assistant started successfully
+2025-07-09 09:57:26,317 - INFO - Wake word detected
+2025-07-09 09:57:26,342 - INFO - Speaking: yes peter, how can i help you?
+2025-07-09 09:57:47,425 - ERROR - ElevenLabs failed: HTTPSConnectionPool(host='api.elevenlabs.io', port=443): Max retries exceeded with url: /v1/text-to-speech/Vara1IkEw7vh5Hr5dT3C?output_format=mp3_44100_128 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017CD666FE00>, 'Connection to api.elevenlabs.io timed out. (connect timeout=None)'))
+2025-07-09 09:57:53,945 - ERROR - Critical error in main: Expecting value: line 1 column 1 (char 0)
+2025-07-09 09:58:05,364 - INFO - Gwen assistant started successfully
+2025-07-09 11:57:07,706 - INFO - Wake word detected
+2025-07-09 11:57:07,769 - INFO - Speaking: yes peter, how can i help you?
+2025-07-09 11:57:15,757 - INFO - Speaking: Sorry, I didn't get that.
+2025-07-09 14:09:56,837 - INFO - Gwen assistant started successfully
+2025-07-09 16:47:38,823 - INFO - Gwen assistant started successfully
+2025-07-11 09:02:58,978 - INFO - Gwen assistant started successfully
+2025-07-11 09:43:29,281 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:43:29,282 - __main__ - ERROR - Configuration error: Missing required environment variables: PORCUPINE_ACCESS_KEY, ELEVEN_API_KEY
+Please check your .env file and ensure all required variables are set.
+2025-07-11 09:45:09,410 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:45:09,410 - __main__ - ERROR - Configuration error: Missing required environment variables: PORCUPINE_ACCESS_KEY, ELEVEN_API_KEY
+Please check your .env file and ensure all required variables are set.
+2025-07-11 09:50:27,612 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:50:27,613 - __main__ - INFO - Configuration validation successful
+2025-07-11 09:50:27,613 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 09:50:27,768 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2025-07-11 09:50:27,769 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:50:27,769 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen\__init__.py'
+2025-07-11 09:50:27,794 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:50:27,834 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-07-11 09:50:27,844 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-07-11 09:50:28,001 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2025-07-11 09:50:28,020 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-07-11 09:50:28,023 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-07-11 09:50:28,039 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2025-07-11 09:50:28,799 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 09:50:28,799 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 09:50:30,311 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 09:51:10,717 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 09:51:10,717 - __main__ - INFO - Cleaning up resources...
+2025-07-11 09:52:43,369 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:52:43,370 - __main__ - INFO - Configuration validation successful
+2025-07-11 09:52:43,370 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 09:52:43,474 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 09:52:43,475 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:52:43,721 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 09:52:43,722 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 09:52:44,419 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 09:52:50,280 - __main__ - INFO - Wake word detected
+2025-07-11 09:52:50,330 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 09:52:53,247 - __main__ - INFO - Listening for command...
+2025-07-11 09:52:58,606 - __main__ - INFO - Speaking: Sorry, I didn't understand that.
+2025-07-11 09:53:01,248 - __main__ - WARNING - Speech not recognized
+2025-07-11 09:53:07,683 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 09:53:07,684 - __main__ - INFO - Cleaning up resources...
+2025-07-11 09:53:10,863 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:53:10,864 - __main__ - INFO - Configuration validation successful
+2025-07-11 09:53:10,865 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 09:53:10,949 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 09:53:10,950 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:53:11,185 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 09:53:11,186 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 09:53:11,900 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 09:53:27,455 - __main__ - INFO - Wake word detected
+2025-07-11 09:53:27,522 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 09:53:30,330 - __main__ - INFO - Listening for command...
+2025-07-11 09:53:35,265 - __main__ - INFO - Speaking: Sorry, I didn't understand that.
+2025-07-11 09:53:38,165 - __main__ - WARNING - Speech not recognized
+2025-07-11 09:53:49,935 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 09:53:49,935 - __main__ - INFO - Cleaning up resources...
+2025-07-11 09:59:11,020 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 09:59:11,021 - __main__ - INFO - Configuration validation successful
+2025-07-11 09:59:11,022 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 09:59:11,184 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 09:59:11,185 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 09:59:11,597 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 09:59:11,598 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 09:59:17,533 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 09:59:24,549 - __main__ - INFO - Wake word detected
+2025-07-11 09:59:24,606 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 09:59:27,851 - __main__ - INFO - Listening for command...
+2025-07-11 09:59:32,033 - __main__ - INFO - Command received: open youtube
+2025-07-11 09:59:32,034 - __main__ - INFO - Executing command: open youtube
+2025-07-11 09:59:32,284 - __main__ - INFO - Speaking: Opening YouTube
+2025-07-11 10:00:09,085 - __main__ - INFO - Wake word detected
+2025-07-11 10:00:09,141 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 10:00:11,777 - __main__ - INFO - Listening for command...
+2025-07-11 10:00:16,057 - __main__ - INFO - Command received: open whatsapp
+2025-07-11 10:00:16,058 - __main__ - INFO - Executing command: open whatsapp
+2025-07-11 10:00:16,549 - __main__ - INFO - Cached 133 apps
+2025-07-11 10:00:16,549 - __main__ - INFO - Speaking: I couldn't find whatsapp. Please make sure it's installed.
+2025-07-11 10:00:39,540 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:00:39,541 - __main__ - INFO - Cleaning up resources...
+2025-07-11 10:00:48,113 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 10:00:48,114 - __main__ - INFO - Configuration validation successful
+2025-07-11 10:00:48,114 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 10:00:48,235 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 10:00:48,236 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 10:00:48,479 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 10:00:48,480 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 10:00:52,491 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 10:00:54,584 - __main__ - INFO - Wake word detected
+2025-07-11 10:00:54,639 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 10:00:57,302 - __main__ - INFO - Listening for command...
+2025-07-11 10:01:00,563 - __main__ - INFO - Speaking: Sorry, I didn't understand that.
+2025-07-11 10:01:02,926 - __main__ - WARNING - Speech not recognized
+2025-07-11 10:01:20,185 - __main__ - INFO - Wake word detected
+2025-07-11 10:01:20,244 - __main__ - INFO - Speaking: Yes Peter, how can I help you?
+2025-07-11 10:01:23,539 - __main__ - INFO - Listening for command...
+2025-07-11 10:01:27,642 - __main__ - INFO - Command received: open calculator
+2025-07-11 10:01:27,643 - __main__ - INFO - Executing command: open calculator
+2025-07-11 10:01:27,671 - __main__ - INFO - Loaded 133 apps from cache
+2025-07-11 10:01:27,672 - __main__ - INFO - Speaking: calculator was found but the file doesn't exist anymore.
+2025-07-11 10:01:32,050 - __main__ - WARNING - App path doesn't exist: calc.exe
+2025-07-11 10:01:39,247 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:01:39,248 - __main__ - INFO - Cleaning up resources...
+2025-07-11 10:07:31,856 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 10:07:31,857 - __main__ - INFO - Configuration validation successful
+2025-07-11 10:07:31,857 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 10:07:31,995 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 10:07:31,996 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 10:07:32,241 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 10:07:32,242 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 10:07:35,152 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 10:07:58,620 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:07:58,620 - __main__ - INFO - Cleaning up resources...
+2025-07-11 10:11:57,985 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 10:11:57,986 - __main__ - INFO - Configuration validation successful
+2025-07-11 10:11:57,986 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 10:11:58,129 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 10:11:58,130 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 10:11:58,411 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 10:11:58,411 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 10:12:00,858 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 10:12:16,901 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:12:16,902 - __main__ - INFO - Cleaning up resources...
+2025-07-11 10:12:32,440 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 10:12:32,442 - __main__ - INFO - Configuration validation successful
+2025-07-11 10:12:32,443 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 10:12:32,566 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 10:12:32,567 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 10:12:32,800 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 10:12:32,801 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 10:12:35,123 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 10:12:36,740 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:12:36,748 - __main__ - INFO - Cleaning up resources...
+2025-07-11 10:13:52,843 - __main__ - INFO - Voice Assistant logging initialized
+2025-07-11 10:13:52,844 - __main__ - INFO - Configuration validation successful
+2025-07-11 10:13:52,844 - __main__ - INFO - ElevenLabs TTS initialized successfully
+2025-07-11 10:13:52,949 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-11 10:13:52,949 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-07-11 10:13:53,160 - __main__ - INFO - pyttsx3 TTS fallback initialized
+2025-07-11 10:13:53,160 - __main__ - INFO - Starting Gwen Voice Assistant
+2025-07-11 10:13:55,705 - __main__ - INFO - Wake word detection setup successful
+2025-07-11 10:14:13,508 - __main__ - INFO - Assistant stopped by user (Ctrl+C)
+2025-07-11 10:14:13,508 - __main__ - INFO - Cleaning up resources...
